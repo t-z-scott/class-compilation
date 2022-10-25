@@ -1,4 +1,4 @@
-package nash.programs;
+package file.project;
 import java.util.Random;
 import java.io.File;
 import java.io.FileNotFoundException;
