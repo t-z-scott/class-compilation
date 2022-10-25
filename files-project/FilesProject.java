@@ -1,4 +1,4 @@
-package file.project;
+package files-project;
 import java.util.Random;
 import java.io.File;
 import java.io.FileNotFoundException;
