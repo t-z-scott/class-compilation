@@ -3,9 +3,6 @@ import java.util.*;
 
 public class PaneraCheese {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         
         OrderList myList = new OrderList(); 
