@@ -1,2 +1,2 @@
 # class-compilation
-Programming assignments from previous classes, sorted by when I took them.
+Programming assignments from previous classes, sorted by class. Will contain my C programs, probably. Eventually.
